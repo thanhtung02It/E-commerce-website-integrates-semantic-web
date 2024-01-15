@@ -2,8 +2,9 @@
     <div id="foot-body">
         <div class="wp-inner clearfix">
             <div class="block" id="info-company">
-                <h3 class="title">ISMART</h3>
-                <p class="desc">ISMART luôn cung cấp luôn là sản phẩm chính hãng có thông tin rõ ràng, chính sách ưu đãi cực lớn cho khách hàng có thẻ thành viên.</p>
+                <h3 class="title">SMARTBUY</h3>
+                <p class="desc">SMARTBUY luôn cung cấp luôn là sản phẩm chính hãng có thông tin rõ ràng, chính sách ưu
+                    đãi cực lớn cho khách hàng có thẻ thành viên.</p>
                 <div id="payment">
                     <div class="thumb">
                         <img src="public/images/img-foot.png" alt="">
@@ -107,7 +108,7 @@
         </ul>
     </div>
 </div>
-<div id="btn-top"><img src="public/images/icon-to-top.png" alt=""/></div>
+<div id="btn-top"><img src="public/images/icon-to-top.png" alt="" /></div>
 <div id="fb-root"></div>
 <script>(function (d, s, id) {
         var js, fjs = d.getElementsByTagName(s)[0];
@@ -120,4 +121,5 @@
     }(document, 'script', 'facebook-jssdk'));
 </script>
 </body>
+
 </html>
